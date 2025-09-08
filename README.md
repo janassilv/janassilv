@@ -1,4 +1,4 @@
-### Hi, I'm Jana!👋 QA/Tester 🐞 Welcome to my Github! ✨
+### Oie, eu sou a Jana!👋 QA/Tester 🐞 Bem vindo(a) ao meu Github! ✨
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=janassilv&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 &nbsp;
